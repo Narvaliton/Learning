@@ -1,0 +1,40 @@
+nb_essai = 8
+continue_partie = True
+scores = {}
+reponse = "o"
+gagner = False
+liste_de_mot = ["Roi", 
+                "Mesure", 
+                "Vent", 
+                "Reine",
+                "Crier",
+                "Regle",
+                "Voiture",
+                "Simple",
+                "Gorge",
+                "Melon",
+                "Sinistre",
+                "Armement",
+                "Blond",
+                "Debile",
+                "Etron",
+                "Hoplite",
+                "Indien",
+                "Japon",
+                "Golf",
+                "Hopital",
+                "Koala",
+                "Lamenter",
+                "Nocturne",
+                "Ornement",
+                "Porc",
+                "Quebec",
+                "Ragondin",
+                "Sierra",
+                "Tarot",
+                "Univers",
+                "Wapiti",
+                "Xenon",
+                "Yolo",
+                "Zorro"
+            ]
